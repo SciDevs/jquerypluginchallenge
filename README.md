@@ -4,7 +4,8 @@ jquerypluginchallenge
 A functional challenge for prospective future science frontend devs
 
 ## Instructions
-+ Create a sperate fork using with the following syntax githubname-challenge
++ Create a sperate fork using with the following syntax 
+`githubname-challenge`
 + Write a jquery plugin that will take an unorderlist of images and create a timed slideshow.
 
  ```
