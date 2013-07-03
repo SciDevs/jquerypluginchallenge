@@ -1,7 +1,7 @@
 jquerypluginchallenge
 =====================
 
-A functional challenge for prospective future science frontend devs
+A functional challenge for prospective future junior frontend devs
 
 ## Instructions
 + Write a jquery plugin that will take an unorderlist of images and create a timed slideshow.
