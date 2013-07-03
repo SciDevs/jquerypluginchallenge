@@ -4,9 +4,11 @@ jquerypluginchallenge
 A functional challenge for prospective future science frontend devs
 
 ## Instructions
-+ Create a sperate fork - then create a branch using with the following syntax 
-`githubname-challenge`
 + Write a jquery plugin that will take an unorderlist of images and create a timed slideshow.
++ Create a seperate fork 
++ Create a branch using with the following syntax 
+`githubname-challenge`
++ Do not edit master
 + Send a pull request to the original repo with your branch
 
  ```
